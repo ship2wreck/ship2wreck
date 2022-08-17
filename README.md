@@ -9,16 +9,16 @@
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 17/08/2022 17:02:28 UTC
+ Last Updated on 17/08/2022 17:45:53 UTC
 <!--END_SECTION:waka-->
