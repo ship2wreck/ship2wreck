@@ -9,17 +9,16 @@
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 21 mins             ████████████████████████░   97.59% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/10/2022 17:09:02 UTC
+ Last Updated on 06/10/2022 17:56:07 UTC
 <!--END_SECTION:waka-->
