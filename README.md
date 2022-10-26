@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -9,16 +9,20 @@
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 54 mins        ████████████████░░░░░░░░░   66.49% 
+Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   27.7% 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
+Sass                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/10/2022 17:00:58 UTC
+ Last Updated on 26/10/2022 17:45:40 UTC
 <!--END_SECTION:waka-->
