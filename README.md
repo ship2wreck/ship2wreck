@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -9,16 +9,18 @@
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     22 mins             █████████████░░░░░░░░░░░░   53.38 % 
+JSON                     16 mins             █████████░░░░░░░░░░░░░░░░   37.36 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 17/02/2023 16:44:52 UTC
+ Last Updated on 17/02/2023 17:35:11 UTC
 <!--END_SECTION:waka-->
