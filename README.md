@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,15 +9,15 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+C++                      1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2023 16:35:03 UTC
+ Last Updated on 30/05/2023 17:34:48 UTC
 <!--END_SECTION:waka-->
