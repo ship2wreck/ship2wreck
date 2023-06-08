@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,15 +9,18 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+Markdown                 18 mins             █████████████████████████   98.75 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2023 16:38:02 UTC
+ Last Updated on 08/06/2023 17:34:56 UTC
 <!--END_SECTION:waka-->
