@@ -9,7 +9,7 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -19,5 +19,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/06/2023 16:42:54 UTC
+ Last Updated on 23/06/2023 17:36:27 UTC
 <!--END_SECTION:waka-->
