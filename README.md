@@ -9,15 +9,15 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-XML                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2023 16:38:54 UTC
+ Last Updated on 25/07/2023 17:34:53 UTC
 <!--END_SECTION:waka-->
